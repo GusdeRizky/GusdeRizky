@@ -10,7 +10,6 @@ I am an Undergraduated student, who like **Web3**, and **Game Development**.
 - 🎓 Currently studying Computer Science.
 - 🌱 Learning & building with: **Solidity and C#**.
 - 🚀 Active in developing dApps, and indie games.
-- 📫 Reach me at: [bagusrisky123@gmail.com](mailto:bagusrisky123@gmail.com)
 
 ## 🛠️ Tech Stack & Tools
 
