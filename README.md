@@ -38,5 +38,4 @@ I am an Undergraduated student, who like **Web3**, and **Game Development**.
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GusdeRizky&theme=tokyonight&hide_border=true" alt="GusdeRizky's Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusdeRizky&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
