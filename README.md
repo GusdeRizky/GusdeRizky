@@ -31,11 +31,3 @@ I am an Undergraduated student, who like **Web3**, and **Game Development**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ida-bagus-rizky-brahmantya-165083286/)
 
 <br/>
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GusdeRizky&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GusdeRizky's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GusdeRizky&theme=tokyonight&hide_border=true" alt="GusdeRizky's Streak" />
-  <br/>
-</div>
